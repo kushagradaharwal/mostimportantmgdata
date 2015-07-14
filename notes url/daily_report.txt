@@ -1,0 +1,269 @@
+#####################################################
+2-1-2015
+
+-worked on admin side menu and submenu created custom submenu 
+
+- also made
+
+
+need 
+#####################################################
+Sti_Footer
+
+####################################################
+facebook app id : 343315955854485
+app secret : 1e106fa39110f91d8610b7f2a918acb0
+
+
+About timing 
+
+Hi ,
+
+As per telephonic conversation i have to come for interview at saturday please 
+confirm for the timeing of interview.
+
+
+
+thanks
+???? ???? ???
+clar ion@ 123
+kushagra1989
+ssh-keygen -t rsa -C "kushagra.daharwal@clariontechnologies.co.in"
+
+
+#################
+Ftp:
+
+domain : magnumopusstore.com
+
+username = vi_10918@magnumopusstore.com
+
+pass: vi_10918
+
+
+
+cPanel URL : http://204.11.58.144/cpanel
+Username : magnupb3
+Password : shayona10860081
+
+
+
+##############################################
+Admin Area: http://udanta.com/admin
+
+ftp.subasham.com
+demowork@subasham.com/demowork123
+
+##############################################
+
+payleaf 
+
+-> check height again for box
+->change name about us to service
+
+cc_Portfolio_enable
+ if(codex_option('cc_testimonial_enable')==1) {
+
+
+
+
+-remove blog section in home page gave optino in admin side 
+-make top header part to add phone no which is widget"" 
+-plateform section disable from admin side and for it gave option in admin side .
+
+
+##############################################
+
+
+drupal
+
+(1) contact form
+
+(2) webform
+
+(3) create short code tour
+
+(4) 
+
+
+-payleaf changes
+
+
+############################################
+
+backup contact form 2 columsn
+<div class="col-xs-6 col-sm-6">
+[text* your-name  placeholder "Your Name*"] 
+
+
+[email* your-email    placeholder "Your Email*"]
+
+
+[tel* tel-381 id:tel-381 class:tel-381 placeholder "Your Phone*"]
+</div>
+<div class="col-xs-6 col-sm-6">
+ [textarea* textarea-107 37x4 id:textarea-107 class:textarea-107 placeholder "Your Message*"]
+
+
+[captchac captcha-394 id:capt class:capt size:s]
+[captchar captcha-394]
+
+
+
+
+
+<p>[submit class:btn1 "Send"]</p>
+</div>
+############################################
+ 
+
+
+http://firstchoicebargain.co.uk/admin
+user:  admin
+pass:  oDesk@3142
+
+firstchoicebargain.co.uk/cpanel
+User:   firstchor12FpsY76w
+[12:52:53 AM] Mobile Internet: Sorry,  
+user:  firstcho 
+pass:  r12FpsY76w
+
+
+module developing
+
+song site 
+http://mio.to/artist/Sunidhi+Chauhan/tracks
+http://mio.to/artist/Sunidhi+Chauhan/tracks
+
+############################################
+
+#1:as per task no 9 checked this and started development on this.
+#2:Checked the grouped bundle product as did in task no 8 and configure this .
+#3:Checked with checkout for this groupd product 
+#4:working with the payment method restriction links will not show only when used checkout with
+   PO method.
+
+############################################
+
+
+#1:did continuoue with task no 9 .
+#2:Checked the grouped bundle product as did in task no 8 and configure this .
+#3:Checked with checkout for this groupd product 
+#4:working with the payment method restriction links will not show only when used checkout with
+   PO method.
+
+############################################
+extension topics :
+
+
+Custom Price Magento Extension
+
+pick store shipping method
+
+year make model extension 
+
+
+############################################
+
+
+
+
+
+user: rlksharma59
+pass: GARprojectN1
+Host:globalautoreport.com
+
+
+You need to use the full user name : rlksharma59@globalautoreport.com
+
+FTP username: rlksharma59@globalautoreport.com
+FTP server: ftp.globalautoreport.com
+
+c/d c
+
+http://indra/XulonPress/XulonPress/
+right one
+
+there are 
+182.74.123.179 indra
+ 
+
+header.php
+
+C:\wamp\www\wp\xulonpress.com\wp-content\themes\multipurpose\homepageform
+
+we have added the wp flash player plugin 
+
+[rev_slider page_slider]
+
+
+
+plugin :
+https://wordpress.org/plugins/simple-tooltips/screenshots/
+
+
+
+http://free-online-exams.com/Pages/Exams/DumpsQA.aspx?d=magento&c=M70-101_V3&q=2
+
+[simple_tooltip content='This is the content for the tooltip bubble']tooltip[/simple_tooltip]
+Use the U.S. Book Retail Black &amp; White Chart and Trim Size information below to determine your Book Retail Price.
+
+[simple_tooltip content='Use the U.S. Book Retail Black &amp; White Chart and Trim Size information below to determine your Book Retail Price.']
+<img src="http://wordpress.xulonpress.com/wp-content/themes/multipurpose-child-theme/images/icon_info.gif" alt="icon_info" width="14" height="16" border="0" />
+[/simple_tooltip]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[simple_tooltip content='']
+<img src="http://wordpress.xulonpress.com/wp-content/themes/multipurpose-child-theme/images/icon_info.gif" alt="icon_info" width="14" height="16" border="0" />
+[/simple_tooltip]
+
+
+&rsquo;
+
+
+Completed the packages page with theme layout Added slider in to packages page
+
+Completed the book-retail-pricing page with theme layout
+
+configure tolltip plugin and assign tooltip in packages page and book-retail-pricing page
+
+Worked on Author Press Releases page and arranged right sidebar menu as per theme layout option
+
+
+
+-work on banner form section
+
+-Put the country and state dropdown fields in form and gave condition with USA country for state dropdown :2hrs
+
+-Completed form validation and implemented Ajax for sending data:2hrs
+
+-Working on  Basic Design of Get Me Guide  Form :2hrs
+
+-Workinf on Package page content entries
+:2hrs
+
+
+
+##############################################################################
+
+https://quizlet.com/20443995/magento-certification-preparation-study-guide-answers-flash-cards/
+http://www.tradesafari.in:2082/logout/?locale=en
+
+(tradesaf / kushagra1989)
+
+catalog/product prire configrable price 
+
+=>
+
+=>
+
+
+=>
+
+
+=>
+
+
+=>
+
+
+=>

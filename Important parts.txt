@@ -1,0 +1,4 @@
+for reading magento API knowledge:
+
+http://www.magentocommerce.com/api/soap/catalog/catalogCategoryAttributes/categoryAttributes.html
+

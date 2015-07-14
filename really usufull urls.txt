@@ -1,0 +1,14 @@
+(1) http://www.sitepoint.com/magento-basics-request-flow-standards-best-practices/
+for getting information aboute magento core
+
+(2) http://blog.chapagain.com.np/magento-how-to-set-and-get-registry/
+for knowing more about for registey 
+
+(3) for all magetno core knowledge
+http://alanstorm.com/magento_controller
+
+
+(4) http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-5-magento-models-and-orm-basics
+magento orm model
+
+
