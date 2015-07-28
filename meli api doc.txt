@@ -73,3 +73,19 @@ APP_USR-7434379394662115-071309-54d17780d3e5759955719200e68c0b1c__H_J__-18735413
 ##################################################################################################################
 
 https://gist.github.com/drewgillson/7727507
+
+
+##################################################################################################################
+Api part :
+
+https://github.com/payzippy/magento-plugin
+
+https://online.webceo.com/leadgen/potentialswidget/
+
+
+https://developer.dailymotion.com/tools/sdks#sdk-php-authentication
+
+
+http://www.restapitutorial.com/lessons/httpmethods.html
+
+
