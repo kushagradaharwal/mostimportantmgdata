@@ -12,3 +12,6 @@ http://alanstorm.com/magento_controller
 magento orm model
 
 
+
+http://corlewsolutions.com/articles/article-11-guide-to-setting-up-ssh-on-windows-7
+http://guides.beanstalkapp.com/version-control/git-on-windows.html
